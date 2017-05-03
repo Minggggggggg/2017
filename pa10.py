@@ -130,15 +130,3 @@ for i in range(1,4):
         print(page)
         
 
-allaa=cursor.fetchall()
-
-cursor.fetchall()
-name.
-name.find()
-
-db = pymysql.connect(host='192.168.0.115',port=3306,user='root', passwd='oseasy@0333', db='crawler', charset='utf8')
-        # 使用cursor()方法获取操作游标 
-cursor = db.cursor()
-cursor.execute('INSERT INTO Table01 VALUES(%s,%s,%s,%s,%s)',(title,number,name,time,comment))
-allfet=cursor.fetchall()
-name.fetchall()
